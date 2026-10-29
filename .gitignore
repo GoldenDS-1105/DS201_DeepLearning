@@ -1,0 +1,16 @@
+# moi truong ao, khong push
+.venv/
+path/
+
+# file rac cua macOS
+.DS_Store
+
+# du lieu (nang, tai lai duoc)
+Thực hành/Lab01/data/
+data/
+
+# checkpoint, cache
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
